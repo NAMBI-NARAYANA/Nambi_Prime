@@ -1,0 +1,7 @@
+num=input("Enter number : ")
+int_num=int(num)
+print(type(int_num))
+float_num=float(int_num)
+print(type(float_num))
+str_num=str(float_num)
+print(type(str_num))
